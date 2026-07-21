@@ -39,7 +39,7 @@ Tenho interesse em transformar bases de dados em informações claras, visualiza
 
 ### Análise de dados
 
-`R` `Python` `Excel`
+`R` `Python` `Excel` 
 
 ### Desenvolvimento
 
