@@ -59,12 +59,7 @@
 <img src="https://img.shields.io/badge/JavaScript-6D28D9?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
 <img src="https://img.shields.io/badge/HTML5-7C3AED?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
 <img src="https://img.shields.io/badge/CSS3-8B5CF6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-<img src="https://img.shields.io/badge/React-9333EA?style=for-the-badge&logo=react&logoColor=white" alt="React">
-<img src="https://img.shields.io/badge/PHP-A855F7?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
 <img src="https://img.shields.io/badge/Java-4C1D95?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-<img src="https://img.shields.io/badge/PostgreSQL-5B21B6?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-<img src="https://img.shields.io/badge/MySQL-6D28D9?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-
 </div>
 
 > FERRAMENTAS
@@ -72,8 +67,6 @@
 <div align="center">
 
 <img src="https://img.shields.io/badge/Excel-4C1D95?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel">
-<img src="https://img.shields.io/badge/Power_BI-5B21B6?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI">
-<img src="https://img.shields.io/badge/Git-6D28D9?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 <img src="https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 <img src="https://img.shields.io/badge/Trello-8B5CF6?style=for-the-badge&logo=trello&logoColor=white" alt="Trello">
 <img src="https://img.shields.io/badge/Notion-9333EA?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
