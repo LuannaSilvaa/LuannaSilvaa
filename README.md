@@ -1,66 +1,54 @@
 <!-- README de perfil - versão estilo roxinho -->
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:7c3aed,100:bf00ff&height=220&section=header&text=Luanna%20Morais&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Ci%C3%AAncias%20Atuariais%20%7C%20An%C3%A1lise%20de%20Dados%20%7C%20UFRN&descSize=16&descAlignY=58&descColor=e9d5ff&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:7c3aed,100:bf00ff&height=220&section=header&text=Luanna%20Morais&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Ci%C3%AAncias%20Atuariais%20%E2%80%A2%20An%C3%A1lise%20de%20Dados%20%E2%80%A2%20Desenvolvimento%20Web&descSize=16&descAlignY=58&descColor=e9d5ff&animation=twinkling)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2800&pause=700&color=C084FC&center=true&vCenter=true&width=720&lines=_%3E+Ci%C3%AAncias+Atuariais+%7C+UFRN...;_%3E+foco%3A+An%C3%A1lise+de+Dados+%7C+Demografia+%7C+Estat%C3%ADstica;_%3E+tecnologias%3A+R+%7C+Python+%7C+Excel;_%3E+status%3A+em+constante+aprendizado" alt="Apresentação animada"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2800&pause=700&color=C084FC&center=true&vCenter=true&width=720&lines=M%C3%A9todos+Quantitativos+%E2%80%A2+Indicadores+%E2%80%A2+Visualiza%C3%A7%C3%A3o+de+Dados;Foco%3A+An%C3%A1lise+de+Dados+%E2%80%A2+Demografia+%E2%80%A2+Estat%C3%ADstica;Tecnologias%3A+R+%E2%80%A2+Python+%E2%80%A2+Excel;Status%3A+em+constante+aprendizado" alt="Apresentação animada"/>
 
 <br/>
 
 </div>
 
-<br><br>
+<br>
 
-<a href="mailto:luannamorais.dev@gmail.com">
-  <img src="https://img.shields.io/badge/GMAIL-581C87?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B0F19" alt="Gmail">
-</a>
-<a href="https://www.linkedin.com/in/luannamorais">
-  <img src="https://img.shields.io/badge/LINKEDIN-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B0F19" alt="LinkedIn">
-</a>
-<a href="https://github.com/LuannaSilvaa?tab=repositories">
-  <img src="https://img.shields.io/badge/REPOSIT%C3%93RIOS-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=0B0F19" alt="Repositórios">
-</a>
-<a href="https://github.com/LuannaSilvaa?tab=followers">
-  <img src="https://img.shields.io/github/followers/LuannaSilvaa?style=for-the-badge&logo=github&color=A855F7&label=FOLLOWERS&labelColor=0B0F19" alt="Followers">
-</a>
+<div align="center">
 
-<br><br>
+<a href="mailto:luannamorais.dev@gmail.com" title="Enviar e-mail"><img src="https://img.shields.io/badge/E--MAIL-5B21B6?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20" alt="E-mail"></a>     <a href="https://www.linkedin.com/in/luannamorais" title="Acessar LinkedIn"><img src="https://img.shields.io/badge/LINKEDIN-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20" alt="LinkedIn"></a>     <a href="https://github.com/LuannaSilvaa?tab=repositories" title="Ver repositórios"><img src="https://img.shields.io/badge/REPOSITÓRIOS-7C3AED?style=for-the-badge&logo=github&logoColor=white&logoWidth=20" alt="Repositórios"></a>
 
-<img src="https://komarev.com/ghpvc/?username=LuannaSilvaa&label=VISITAS&color=7C3AED&style=for-the-badge" alt="Contador de visitas">
+<br>
+
+<img src="https://img.shields.io/github/followers/LuannaSilvaa?style=for-the-badge&logo=githubsponsors&logoColor=white&label=SEGUIDORES&color=8B5CF6" alt="Seguidores">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://komarev.com/ghpvc/?username=LuannaSilvaa&label=%E2%97%89%20VISUALIZA%C3%87%C3%95ES&color=A855F7&style=for-the-badge" alt="Visualizações do perfil">
 
 </div>
+<br>
 
-> WHOAMI
+> PERFIL ACADÊMICO E PROFISSIONAL
 
-nome: Luanna Morais
-formacao: Ciências Atuariais - UFRN
-foco:
-  - Análise de Dados
-  - Modelagem Estatística e Atuarial
-  - Indicadores e Visualizações
-  - Tratamento e Automação de Dados
-interesses:
-  - Demografia
-  - Saúde Pública
-  - Desenvolvimento de Soluções
+**Nome:** Luanna Morais  
+**Formação:** Ciências Atuariais — UFRN  
+
+**Áreas de interesse:**
+- Análise de Dados;
+- Modelagem Estatística e Atuarial;
+- Construção de Indicadores;
+- Visualização e Automação de Dados;
+- Demografia e Saúde Pública;
+- Desenvolvimento de Soluções.
 
 > SOBRE MIM
 
-Estudante de Ciências Atuariais com interesse em transformar dados em análises organizadas, visuais e úteis para apoiar decisões. Gosto de trabalhar desde a etapa de organização e tratamento dos dados até a construção de indicadores, gráficos, tabelas e aplicações interativas.
+- Estudante de Ciências Atuariais com interesse em transformar dados em análises organizadas, visuais e úteis para apoiar decisões. Gosto de trabalhar desde a etapa de organização e tratamento dos dados até a construção de indicadores, gráficos, tabelas e aplicações interativas.
 
 > ÁREAS DE ATUAÇÃO
 
-Análise Exploratória de Dados
-
-Construção de Indicadores
-
-Visualização de Dados
-
-Modelagem Estatística e Atuarial
-
-Automação e Tratamento de Dados
-
-Desenvolvimento Web
+- Análise Exploratória de Dados
+- Construção de Indicadores
+- Visualização de Dados
+- Modelagem Estatística e Atuarial
+- Automação e Tratamento de Dados
+- Desenvolvimento Web
 
 > TECNOLOGIAS
 
