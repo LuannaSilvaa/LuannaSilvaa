@@ -12,19 +12,11 @@
 
 <div align="center">
 
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=luannamorais88@gmail.com" title="Enviar e-mail para Luanna Morais">
-  <img src="https://img.shields.io/badge/E--MAIL-5B21B6?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20" alt="Enviar e-mail">
-</a>
-
-
-<a href="https://www.linkedin.com/in/luanna-morais-073152249" title="Acessar LinkedIn">
-  <img src="https://img.shields.io/badge/LINKEDIN-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20" alt="LinkedIn">
-</a>
-
-
-<a href="https://github.com/LuannaSilvaa?tab=repositories" title="Ver repositórios">
-  <img src="https://img.shields.io/badge/REPOSITÓRIOS-7C3AED?style=for-the-badge&logo=github&logoColor=white&logoWidth=20" alt="Repositórios">
-</a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=luannamorais88@gmail.com" title="Enviar e-mail para Luanna Morais"><img src="https://img.shields.io/badge/E--MAIL-5B21B6?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20" alt="Enviar e-mail"></a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/luanna-morais-073152249" title="Acessar LinkedIn"><img src="https://img.shields.io/badge/LINKEDIN-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20" alt="LinkedIn"></a>
+&nbsp;&nbsp;
+<a href="https://github.com/LuannaSilvaa?tab=repositories" title="Ver repositórios"><img src="https://img.shields.io/badge/REPOSITÓRIOS-7C3AED?style=for-the-badge&logo=github&logoColor=white&logoWidth=20" alt="Repositórios"></a>
 
 </div>
 
