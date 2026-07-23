@@ -1,4 +1,3 @@
-<!-- README de perfil - versão estilo roxinho -->
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:7c3aed,100:bf00ff&height=220&section=header&text=Luanna%20Morais&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Ci%C3%AAncias%20Atuariais%20%E2%80%A2%20An%C3%A1lise%20de%20Dados%20%E2%80%A2%20Desenvolvimento%20Web&descSize=16&descAlignY=58&descColor=e9d5ff&animation=twinkling)
@@ -110,16 +109,48 @@
 
 > GITHUB STATS
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=LuannaSilvaa&show_icons=true&hide_border=true&bg_color=00000000&title_color=C084FC&icon_color=A855F7&text_color=C9D1D9&locale=pt-br" alt="Estatísticas do GitHub">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuannaSilvaa&layout=compact&hide_border=true&bg_color=00000000&title_color=C084FC&text_color=C9D1D9&locale=pt-br" alt="Linguagens mais usadas">
-
-</div>
+<p align="left">
+  <img src="https://img.shields.io/badge/ATIVIDADE_NO_GITHUB-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Atividade no GitHub">
+</p>
 
 <div align="center">
 
-💜 Dados bem trabalhados ajudam a contar histórias e apoiar decisões melhores.
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h3>Linguagens principais</h3>
+      <p>
+        <img src="https://img.shields.io/badge/R-4C1D95?style=for-the-badge&logo=r&logoColor=white" alt="R">
+        <img src="https://img.shields.io/badge/Python-5B21B6?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-6D28D9?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+        <img src="https://img.shields.io/badge/JavaScript-7C3AED?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
+      </p>
+    </td>
+
+<td width="50%" align="center" valign="top">
+  <h3>Tecnologias complementares</h3>
+  <p>
+    <img src="https://img.shields.io/badge/HTML5-8B5CF6?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+    <img src="https://img.shields.io/badge/CSS3-9333EA?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  </p>
+  <p>
+  </p>
+</td>
+
+  </tr>
+</table>
+
+<br>
+
+<img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LuannaSilvaa&theme=github_dark" alt="Estatísticas gerais do GitHub">
+
+<img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LuannaSilvaa&theme=github_dark&utcOffset=-3" alt="Períodos de maior atividade no GitHub">
+<br><br>
+
+<sub>
+  ◈ Esta seção apresenta atividade e contribuições públicas, sem limitar sua atuação a uma única linguagem.
+</sub>
 
 </div>
-Quero que mantenha assim, só anime o titulo
