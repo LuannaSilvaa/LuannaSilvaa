@@ -84,7 +84,6 @@
 <p>▌ &nbsp; PROJETO EM DESTAQUE</p>
 
 <div align="center">
-
 <table>
   <tr>
     <td width="65%" valign="top">
@@ -97,18 +96,33 @@
         O projeto reúne etapas de importação, organização, padronização e filtragem dos dados,
         além do uso de dicionários de variáveis para manter a consistência das análises.
       </p>
-      <a href="https://github.com/LuannaSilvaa/ObservatorioAnaliticoVigitel/">
-        <img src="https://github.com/LuannaSilvaa/ObservatorioAnaliticoVigitel/" alt="Ver projeto">
+      <a href="https://luannasilvaa.github.io/ObservatorioAnaliticoVigitel/">
+        <img
+          src="https://img.shields.io/badge/ACESSAR_PROJETO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"
+          alt="Acessar o Observatório Analítico do Vigitel"
+        >
       </a>
     </td>
     <td width="35%" align="center" valign="middle">
-      <img src="https://img.shields.io/badge/R-4C1D95?style=for-the-badge&logo=r&logoColor=white" alt="R">
+      <img
+        src="https://img.shields.io/badge/R-4C1D95?style=for-the-badge&logo=r&logoColor=white"
+        alt="R"
+      >
       <br><br>
-      <img src="https://img.shields.io/badge/Shiny-6D28D9?style=for-the-badge&logo=rstudio&logoColor=white" alt="Shiny">
+      <img
+        src="https://img.shields.io/badge/Shiny-6D28D9?style=for-the-badge&logo=rstudio&logoColor=white"
+        alt="Shiny"
+      >
       <br><br>
-      <img src="https://img.shields.io/badge/Vigitel-9333EA?style=for-the-badge" alt="Vigitel">
+      <img
+        src="https://img.shields.io/badge/Vigitel-9333EA?style=for-the-badge"
+        alt="Vigitel"
+      >
       <br><br>
-      <img src="https://img.shields.io/badge/2006--2023-A855F7?style=for-the-badge" alt="Período">
+      <img
+        src="https://img.shields.io/badge/2006--2023-A855F7?style=for-the-badge"
+        alt="Período analisado"
+      >
     </td>
   </tr>
 </table>
