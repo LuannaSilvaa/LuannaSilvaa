@@ -109,48 +109,17 @@
 
 > GITHUB STATS
 
-<p align="left">
-  <img src="https://img.shields.io/badge/ATIVIDADE_NO_GITHUB-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Atividade no GitHub">
-</p>
-
-<div align="center">
-
-<table>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <h3>Linguagens principais</h3>
-      <p>
-        <img src="https://img.shields.io/badge/R-4C1D95?style=for-the-badge&logo=r&logoColor=white" alt="R">
-        <img src="https://img.shields.io/badge/Python-5B21B6?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Java-6D28D9?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-        <img src="https://img.shields.io/badge/JavaScript-7C3AED?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
-      </p>
-    </td>
-
-<td width="50%" align="center" valign="top">
-  <h3>Tecnologias complementares</h3>
-  <p>
-    <img src="https://img.shields.io/badge/HTML5-8B5CF6?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-    <img src="https://img.shields.io/badge/CSS3-9333EA?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  </p>
-  <p>
-  </p>
-</td>
-
-  </tr>
-</table>
-
-<br>
-
-<img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LuannaSilvaa&theme=github_dark" alt="Estatísticas gerais do GitHub">
-
-<img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LuannaSilvaa&theme=github_dark&utcOffset=-3" alt="Períodos de maior atividade no GitHub">
-<br><br>
-
-<sub>
-  ◈ Esta seção apresenta atividade e contribuições públicas, sem limitar sua atuação a uma única linguagem.
-</sub>
-
+<div align="center"> 
+  <img width="620" src="https://quickchart.io/chart?width=620&amp;height=340&amp;backgroundColor=%230D1117&amp;version=4&amp;c=%7B%22type%22%3A%22doughnut%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22JavaScript%2042%2C4%25%22%2C%22CSS3%2029%2C9%25%22%2C%22Python%2015%2C7%25%22%2C%22HTML5%208%25%22%2C%22R%204%25%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B42.4%2C29.9%2C15.7%2C8%2C4%5D%2C%22backgroundColor%22%3A%5B%22%23F7DF1E%22%2C%22%238B5CF6%22%2C%22%233776AB%22%2C%22%23E34F26%22%2C%22%23276DC3%22%5D%2C%22borderColor%22%3A%22%230D1117%22%2C%22borderWidth%22%3A3%7D%5D%7D%2C%22options%22%3A%7B%22responsive%22%3Atrue%2C%22plugins%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22Distribui%5Cu00e7%5Cu00e3o%20de%20Linguagens%22%2C%22color%22%3A%22%23E9D5FF%22%2C%22font%22%3A%7B%22size%22%3A18%2C%22weight%22%3A%22bold%22%7D%7D%2C%22legend%22%3A%7B%22position%22%3A%22bottom%22%2C%22labels%22%3A%7B%22color%22%3A%22%23E5E7EB%22%2C%22padding%22%3A14%2C%22usePointStyle%22%3Atrue%7D%7D%7D%7D%7D" alt="Gráfico com a distribuição de JavaScript, CSS3, Python, HTML5 e R"> 
+<br><br> 
+<sub> 
+◈ O gráfico apresenta a distribuição de linguagens do repositório analisado. Java também integra minhas competências, embora não apareça nessa distribuição específica. 
+</sub> 
+<br><br> 
+<img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LuannaSilvaa&theme=github_dark" alt="Estatísticas gerais do GitHub"> 
+<img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LuannaSilvaa&theme=github_dark&utcOffset=-3" alt="Períodos de maior atividade no GitHub"> 
+<br><br> 
+<sub> 
+◈ Esta seção apresenta atividade e contribuições públicas, sem limitar sua atuação a uma única linguagem. 
+</sub> 
 </div>
