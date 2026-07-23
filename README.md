@@ -12,13 +12,21 @@
 
 <div align="center">
 
-<a href="mailto:luannamorais.dev@gmail.com" title="Enviar e-mail"><img src="https://img.shields.io/badge/E--MAIL-5B21B6?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20" alt="E-mail"></a>     <a href="https://www.linkedin.com/in/luannamorais" title="Acessar LinkedIn"><img src="https://img.shields.io/badge/LINKEDIN-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20" alt="LinkedIn"></a>     <a href="https://github.com/LuannaSilvaa?tab=repositories" title="Ver repositórios"><img src="https://img.shields.io/badge/REPOSITÓRIOS-7C3AED?style=for-the-badge&logo=github&logoColor=white&logoWidth=20" alt="Repositórios"></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=luannamorais88@gmail.com" title="Enviar e-mail para Luanna Morais">
+  <img src="https://img.shields.io/badge/E--MAIL-5B21B6?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20" alt="Enviar e-mail">
+</a>
 
-<br>
 
-<img src="https://img.shields.io/github/followers/LuannaSilvaa?style=for-the-badge&logo=githubsponsors&logoColor=white&label=SEGUIDORES&color=8B5CF6" alt="Seguidores">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://komarev.com/ghpvc/?username=LuannaSilvaa&label=%E2%97%89%20VISUALIZA%C3%87%C3%95ES&color=A855F7&style=for-the-badge" alt="Visualizações do perfil">
+<a href="https://www.linkedin.com/in/luanna-morais-073152249" title="Acessar LinkedIn">
+  <img src="https://img.shields.io/badge/LINKEDIN-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20" alt="LinkedIn">
+</a>
+
+
+<a href="https://github.com/LuannaSilvaa?tab=repositories" title="Ver repositórios">
+  <img src="https://img.shields.io/badge/REPOSITÓRIOS-7C3AED?style=for-the-badge&logo=github&logoColor=white&logoWidth=20" alt="Repositórios">
+</a>
+
+</div>
 
 </div>
 <br>
